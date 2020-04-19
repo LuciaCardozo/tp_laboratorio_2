@@ -1,6 +1,0 @@
-C:\Users\Lucia\source\repos\Entidades\Entidades\bin\Debug\Entidades.exe.config
-C:\Users\Lucia\source\repos\Entidades\Entidades\bin\Debug\Entidades.exe
-C:\Users\Lucia\source\repos\Entidades\Entidades\bin\Debug\Entidades.pdb
-C:\Users\Lucia\source\repos\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
-C:\Users\Lucia\source\repos\Entidades\Entidades\obj\Debug\Entidades.exe
-C:\Users\Lucia\source\repos\Entidades\Entidades\obj\Debug\Entidades.pdb

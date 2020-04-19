@@ -1,0 +1,4 @@
+C:\Users\Lucia\Desktop\Lab2-Practice_C-Sharp\MiCalculadora2\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lucia\Desktop\Lab2-Practice_C-Sharp\MiCalculadora2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lucia\Desktop\Lab2-Practice_C-Sharp\MiCalculadora2\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lucia\Desktop\Lab2-Practice_C-Sharp\MiCalculadora2\Entidades\obj\Debug\Entidades.pdb
