@@ -16,3 +16,8 @@ C:\Users\Lucia\Desktop\TP2 prueba\TP-02 - Alumno\TP-02\Entidades\bin\Debug\Entid
 C:\Users\Lucia\Desktop\TP2 prueba\TP-02 - Alumno\TP-02\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
 C:\Users\Lucia\Desktop\TP2 prueba\TP-02 - Alumno\TP-02\Entidades\obj\Debug\Entidades.dll
 C:\Users\Lucia\Desktop\TP2 prueba\TP-02 - Alumno\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Lucia\Desktop\Tp_lab2\tp_laboratorio_2\TP2\TP-02 - Alumno\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lucia\Desktop\Tp_lab2\tp_laboratorio_2\TP2\TP-02 - Alumno\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lucia\Desktop\Tp_lab2\tp_laboratorio_2\TP2\TP-02 - Alumno\TP-02\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Lucia\Desktop\Tp_lab2\tp_laboratorio_2\TP2\TP-02 - Alumno\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lucia\Desktop\Tp_lab2\tp_laboratorio_2\TP2\TP-02 - Alumno\TP-02\Entidades\obj\Debug\Entidades.pdb

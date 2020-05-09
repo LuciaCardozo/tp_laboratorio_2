@@ -30,3 +30,12 @@ C:\Users\Lucia\Desktop\TP2 prueba\TP-02 - Alumno\TP-02\TP-02\obj\Debug\TP-02.csp
 C:\Users\Lucia\Desktop\TP2 prueba\TP-02 - Alumno\TP-02\TP-02\obj\Debug\TP-02.csproj.CopyComplete
 C:\Users\Lucia\Desktop\TP2 prueba\TP-02 - Alumno\TP-02\TP-02\obj\Debug\TP-02.exe
 C:\Users\Lucia\Desktop\TP2 prueba\TP-02 - Alumno\TP-02\TP-02\obj\Debug\TP-02.pdb
+C:\Users\Lucia\Desktop\Tp_lab2\tp_laboratorio_2\TP2\TP-02 - Alumno\TP-02\TP-02\bin\Debug\TP-02.exe.config
+C:\Users\Lucia\Desktop\Tp_lab2\tp_laboratorio_2\TP2\TP-02 - Alumno\TP-02\TP-02\bin\Debug\TP-02.exe
+C:\Users\Lucia\Desktop\Tp_lab2\tp_laboratorio_2\TP2\TP-02 - Alumno\TP-02\TP-02\bin\Debug\TP-02.pdb
+C:\Users\Lucia\Desktop\Tp_lab2\tp_laboratorio_2\TP2\TP-02 - Alumno\TP-02\TP-02\bin\Debug\Entidades.dll
+C:\Users\Lucia\Desktop\Tp_lab2\tp_laboratorio_2\TP2\TP-02 - Alumno\TP-02\TP-02\bin\Debug\Entidades.pdb
+C:\Users\Lucia\Desktop\Tp_lab2\tp_laboratorio_2\TP2\TP-02 - Alumno\TP-02\TP-02\obj\Debug\TP-02.csprojAssemblyReference.cache
+C:\Users\Lucia\Desktop\Tp_lab2\tp_laboratorio_2\TP2\TP-02 - Alumno\TP-02\TP-02\obj\Debug\TP-02.csproj.CopyComplete
+C:\Users\Lucia\Desktop\Tp_lab2\tp_laboratorio_2\TP2\TP-02 - Alumno\TP-02\TP-02\obj\Debug\TP-02.exe
+C:\Users\Lucia\Desktop\Tp_lab2\tp_laboratorio_2\TP2\TP-02 - Alumno\TP-02\TP-02\obj\Debug\TP-02.pdb
