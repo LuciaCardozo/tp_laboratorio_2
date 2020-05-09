@@ -29,7 +29,7 @@ namespace Entidades
 
             sb.AppendLine("MOTO");
             sb.AppendLine(base.Mostrar());
-            sb.AppendLine($"Tamaño: {this.Tamanio}");
+            sb.AppendLine($"TAMAÑO: {this.Tamanio}");
             sb.AppendLine("");
             sb.AppendLine("---------------------");
 

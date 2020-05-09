@@ -49,13 +49,13 @@ namespace Entidades
             return sb.ToString();
         }
 
-        public static explicit operator string(Vehiculo p)
+        public static explicit operator string(Vehiculo vehiculo)
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendLine($"CHASIS: {p.chasis}\r\n");
-            sb.AppendLine($"MARCA : {p.marca.ToString()}\r\n");
-            sb.AppendLine($"COLOR : {p.color.ToString()}\r\n");
+            sb.AppendLine($"CHASIS: {vehiculo.chasis}\r\n");
+            sb.AppendLine($"MARCA : {vehiculo.marca.ToString()}\r\n");
+            sb.AppendLine($"COLOR : {vehiculo.color.ToString()}\r\n");
             sb.AppendLine("---------------------");
 
             return sb.ToString();
@@ -64,22 +64,22 @@ namespace Entidades
         /// <summary>
         /// Dos vehiculos son iguales si comparten el mismo chasis
         /// </summary>
-        /// <param name="v1"></param>
-        /// <param name="v2"></param>
+        /// <param name="vehiculoUno"></param>
+        /// <param name="vehiculoDos"></param>
         /// <returns></returns>
-        public static bool operator ==(Vehiculo v1, Vehiculo v2)
+        public static bool operator ==(Vehiculo vehiculoUno, Vehiculo vehiculoDos)
         {           
-            return (v1.chasis == v2.chasis);
+            return (vehiculoUno.chasis == vehiculoDos.chasis);
         }
         /// <summary>
         /// Dos vehiculos son distintos si su chasis es distinto
         /// </summary>
-        /// <param name="v1"></param>
-        /// <param name="v2"></param>
+        /// <param name="vehiculoUno"></param>
+        /// <param name="vehiculoDos"></param>
         /// <returns></returns>
-        public static bool operator !=(Vehiculo v1, Vehiculo v2)
+        public static bool operator !=(Vehiculo vehiculoUno, Vehiculo vehiculoDos)
         {
-            return !(v1 == v2);
+            return !(vehiculoUno == vehiculoDos);
         }
     }
 }

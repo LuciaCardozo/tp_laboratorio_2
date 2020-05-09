@@ -59,20 +59,20 @@ namespace Entidades
             {                      
                 switch (tipo)
                 {
-                    case ETipo.Automovil:
-                        if(vehiculo is Automovil)
+                    case ETipo.Camioneta:
+                        if (vehiculo is Camioneta)
                         {
                             sb.AppendLine(vehiculo.Mostrar());
-                        }                         
+                        }
                         break;
                     case ETipo.Moto:
                         if (vehiculo is Moto)
                         {
                             sb.AppendLine(vehiculo.Mostrar());
                         }
-                        break;
-                    case ETipo.Camioneta:
-                        if (vehiculo is Camioneta)
+                        break;                   
+                    case ETipo.Automovil:
+                        if (vehiculo is Automovil)
                         {
                             sb.AppendLine(vehiculo.Mostrar());
                         }
