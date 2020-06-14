@@ -1,0 +1,5 @@
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP3\Excepciones\obj\Debug\Excepciones.pdb

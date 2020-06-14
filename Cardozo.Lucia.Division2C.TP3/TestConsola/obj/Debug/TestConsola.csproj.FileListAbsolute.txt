@@ -1,0 +1,15 @@
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP3\TestConsola\bin\Debug\TestConsola.exe.config
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP3\TestConsola\bin\Debug\TestConsola.exe
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP3\TestConsola\bin\Debug\TestConsola.pdb
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP3\TestConsola\bin\Debug\Archivos.dll
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP3\TestConsola\bin\Debug\Clases Abstractas.dll
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP3\TestConsola\bin\Debug\Clases Instanciables.dll
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP3\TestConsola\bin\Debug\Excepciones.dll
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP3\TestConsola\bin\Debug\Archivos.pdb
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP3\TestConsola\bin\Debug\Clases Abstractas.pdb
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP3\TestConsola\bin\Debug\Clases Instanciables.pdb
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP3\TestConsola\bin\Debug\Excepciones.pdb
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP3\TestConsola\obj\Debug\TestConsola.csprojAssemblyReference.cache
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP3\TestConsola\obj\Debug\TestConsola.csproj.CopyComplete
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP3\TestConsola\obj\Debug\TestConsola.exe
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP3\TestConsola\obj\Debug\TestConsola.pdb
