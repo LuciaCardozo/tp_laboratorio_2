@@ -1,0 +1,12 @@
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP4\MainCorreo\bin\Debug\Entidades.dll
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP4\MainCorreo\bin\Debug\Entidades.pdb
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP4\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP4\MainCorreo\obj\Debug\MainCorreo.FrmPpal.resources

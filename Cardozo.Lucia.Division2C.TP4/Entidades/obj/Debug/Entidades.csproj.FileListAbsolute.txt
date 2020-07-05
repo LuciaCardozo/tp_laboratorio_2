@@ -1,0 +1,5 @@
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lucia\source\repos\Cardozo.Lucia.Division2C.TP4\Entidades\obj\Debug\Entidades.pdb
